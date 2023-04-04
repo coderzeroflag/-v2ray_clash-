@@ -8,3 +8,6 @@ v2ray/clash/ssr
 - [x] 50G~300G中继
 - [x] 5 ~ 16 元/每月 
 
+## [一元机场](https://xn--4gq62f52gdss.com/#/register?code=zAC3XckV) (2023)
+- [x] 100G/月 (首月500G)
+- [x] 4元/6元/11元 直连 1000G+ 、奈飞解锁
