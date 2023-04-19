@@ -3,11 +3,19 @@ v2ray/clash/ssr
 
 记录一些便宜的机场地址
 
-## [XMRTH](https://xmrth.fun/auth/register?code=kkDm) （2023）
+## [XMRTH](https://xmrth.cc/auth/register?code=kkDm) （2023）
 - [x] 1000~3000G直连
 - [x] 50G~300G中继
 - [x] 5 ~ 16 元/每月 
+#### 评价 
+直连结点流量很多，某些结点偶尔会抽风一下，建议配合Clash，按照规则进行自动切换。
+5元的有10G中继流量。
+10元的增加了几个中继结点，中继流量50G。
+16元的有200G中继流量。
 
 ## [一元机场](https://xn--4gq62f52gdss.com/#/register?code=zAC3XckV) (2023)
 - [x] 100G/月 (首月500G)
 - [x] 4元/6元/11元 直连 1000G+ 、奈飞解锁
+
+#### 评价
+都是直连结点，流量 ≥1TB，配合Clash使用还可以，毕竟价格在那里放着
