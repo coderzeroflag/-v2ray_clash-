@@ -1,5 +1,5 @@
 # 大流量机场地址记录[2023年8月2日更新]
-v2ray/clash/ssr
+v2ray/clash/ssr/ChatGPT/OpenAI
 
 记录一些便宜的机场地址
 
