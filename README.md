@@ -1,9 +1,9 @@
-# 大流量机场地址记录[2024年2月6日更新]
+# 大流量机场地址记录[2024年7月3日更新]
 v2ray/clash/ssr/ChatGPT/OpenAI
 
 记录一些便宜的机场地址
 
-## [水云机场](https://map.shuiyun.icu/#/register?code=fqMNBFNi) （2024-4月）
+## [水云机场](https://south.shuiyun.sbs/#/register?code=fqMNBFNi) （2024-7月）
 全中转类型机场，6种套餐
 - [x] 50GB 迷你型，3元/月
 - [x] 120G 小型，6元/月
@@ -16,7 +16,7 @@ v2ray/clash/ssr/ChatGPT/OpenAI
 #### 评价
 新用户注册会送一个6G的体验套餐，实测为中转线路。支持ChatGPT，倍率0.5~1.5。
 
-## [XMRTH](https://xmrth.fun/auth/register?code=kkDm) （2024-2月）
+## [XMRTH](https://www.xmrth.cloud/auth/register?code=kkDm) （2024-7月）
 - [x] 1000~3000G直连
 - [x] 50G~300G中继
 - [x] 5 ~ 25 元/每月
@@ -29,7 +29,7 @@ v2ray/clash/ssr/ChatGPT/OpenAI
 10元的增加了几个中继结点，中继流量50G。
 16元的有200G中继流量。
 
-## [一元机场](https://xn--4gq62f52gdss.com/#/register?code=zAC3XckV) (2023-10月)
+## [一元机场](https://xn--4gq62f52gdss.com/#/register?code=zAC3XckV) (2024-7月)
 - [x] 100G/月 (首月500G)
 - [x] 4元/6元/11元 直连 1000G+ 、奈飞解锁
 
