@@ -1,9 +1,9 @@
-# 大流量机场地址记录[2024年10月24日更新]
+# 大流量机场地址记录[2025年03月24日更新]
 v2ray/clash/ssr/ChatGPT/OpenAI
 
 记录一些便宜的机场地址
 
-## [水云机场](https://south.shuiyun.sbs/#/register?code=fqMNBFNi) （2024-10月）
+## [水云机场](https://south.shuiyun.sbs/#/register?code=fqMNBFNi) （2025-03月）
 全中转类型机场，6种套餐
 - [x] ~~50GB 迷你型，3元/月~~
 - [x] 120G 迷你型，6元/月
@@ -16,9 +16,9 @@ v2ray/clash/ssr/ChatGPT/OpenAI
 #### 评价
 > 2024.10.07的时候，这个平台调整过倍率，除了美国3节下调至0.7x外，其余节点全部调整为2x
 
-## [XMRTH](https://www.xmrth.lol/auth/register?code=kkDm) （2024-10月）
+## [XMRTH](https://www.xmrth.lol/auth/register?code=kkDm) （2025-03月）
 - [x] 1000~3000G直连
-- [x] 250G~400G中继
+- [x] 60G~400G中继
 - [x] 10 ~ 25 元/每月
 
 ![image](https://github.com/user-attachments/assets/3f141137-3f8a-4843-a4d3-dc330958294c)
