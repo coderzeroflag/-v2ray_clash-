@@ -3,7 +3,7 @@ v2ray/clash/ssr/ChatGPT/OpenAI
 
 记录一些便宜的机场地址
 
-## [水云机场](https://skt.shuiyun.org/#/register?code=fqMNBFNi) （2025-03月）
+## [水云机场](https://skt.shuiyun.org/#/register?code=fqMNBFNi) （2025-06月）
 全中转类型机场，6种套餐
 - [x] ~~50GB 迷你型，3元/月~~
 - [x] 120G 迷你型，6元/月
