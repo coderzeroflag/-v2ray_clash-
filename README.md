@@ -4,7 +4,7 @@ v2ray/clash/ssr/ChatGPT/OpenAI
 记录一些便宜的机场地址
 
 ## [水云机场](https://skt.shuiyun.org/#/register?code=fqMNBFNi) （2025-07月）
-全中转类型机场，6种套餐
+全中转类型机场，emmm~ 5种套餐
 - [x] ~~50GB 迷你型，3元/月~~
 - [x] 120G 中杯，6元/月
 - [x] 240G 大杯，11元/月
@@ -14,7 +14,7 @@ v2ray/clash/ssr/ChatGPT/OpenAI
 <img width="1248" height="992" alt="image" src="https://github.com/user-attachments/assets/d87714b4-dad6-406a-bda5-d498d723e9fb" />
 
 #### 评价
-> 基本为1x计费，TMD竟然有免费节点，购买流量版正常查阅资料还是很合适的.
+> 基本为1x计费，最近突然发现竟然有免费节点，购买不限时流量，正常查阅资料感觉还是很合适的.
 
 ## [XMRTH](https://www.xmrth.lol/auth/register?code=kkDm) （2025-07月）
 - [x] 1000~3000G直连
